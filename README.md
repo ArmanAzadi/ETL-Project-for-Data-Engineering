@@ -1,6 +1,7 @@
 # ETL-Project-for-Data-Engineering
 
 Project Tasks
+
 In this project you will:
   •	Collect data using APIs
   •	Collect data using webscraping.
