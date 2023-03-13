@@ -3,8 +3,9 @@
 Project Tasks
 
 In this project you will:
+
   •	Collect data using APIs
-  •	Collect data using webscraping.
+  •	Collect data using webscraping
   •	Download files to process. 
   •	Read csv, xml and json file types.
   •	Extract data from the above file types.
